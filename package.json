@@ -8,5 +8,11 @@
   "keywords": [],
   "author": "Raj Aryan",
   "license": "ISC",
-  "description": "Authentication and Authorization"
+  "description": "Authentication and Authorization",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
 }
